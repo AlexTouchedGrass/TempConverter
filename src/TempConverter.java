@@ -19,7 +19,7 @@ public class TempConverter {
                     //To Clear Buffer
                     scan.nextLine();
 
-                    tempFahr = tempCelsius * (9 / 5) + 32;
+                    tempFahr = (tempCelsius * (double)(9 / 5)) + 32;
                     System.out.printf("The Fahrenheit is : %.2f", tempFahr);
                     System.out.printf("\nThe Celsius is : %.2f", tempCelsius);
 
@@ -27,8 +27,6 @@ public class TempConverter {
                     yesOrNo = scan.nextLine();
                     if (yesOrNo.equalsIgnoreCase("N")){
                         n = true;
-                    } else {
-                        n = false;
                     }
 
                     valid = true;
@@ -36,7 +34,6 @@ public class TempConverter {
                     scan.nextLine();
                     System.out.println("You have entered an invalid temperature. Please try again.");
                     valid = false;
-
                 }
 
             } while (!valid);

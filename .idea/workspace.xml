@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a056726-40a8-466c-a97d-eba86396a140" name="Changes" comment="">
+    <list default="true" id="8a056726-40a8-466c-a97d-eba86396a140" name="Changes" comment="Nice-u">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TempConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TempConverter.java" afterDir="false" />
     </list>
@@ -22,12 +22,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/622237/IdeaProjects/TempConverter"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TempConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TempConverter" />
@@ -51,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1698673533331</updated>
     </task>
+    <task id="LOCAL-00001" summary="Nice-u">
+      <created>1698758148074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698758148074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nice-u" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nice-u" />
   </component>
 </project>
